@@ -1,5 +1,5 @@
 {
-  "jsx": "react",
+  "jsx": "react-native",
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true
